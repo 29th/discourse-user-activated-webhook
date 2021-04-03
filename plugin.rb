@@ -1,6 +1,8 @@
 # name: discourse-webhook-user-activated
+# about: Fires a user_activated webhook when a user is activated.
 # version: 1.0
 # authors: Wilson29thID (wilson@29th.org)
+# url: https://github.com/29th/discourse-webhook-user-activated
 
 PLUGIN_NAME = "discourse_user_activated_webhook".freeze
 
